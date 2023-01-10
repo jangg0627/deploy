@@ -8,7 +8,7 @@ This is a link to this page.
 프로젝트 아이콘 &#x2192; 🎯  
 공부파일 아이콘 &#x2192; 📝
 
-## 🌐 project link
+## 🌐 link list
 
 ### 🎯 Travel goal page
 
